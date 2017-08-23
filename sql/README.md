@@ -1,9 +1,7 @@
-
 ---
 title: TiDB User Guide
 category: user guide
 ---
-
 
 # TiDB User Guide
 
