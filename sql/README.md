@@ -15,7 +15,7 @@ TiDB supports the SQL-92 standard and is compatible with MySQL. To help you easi
 	- The TiDB Server
 	- The TiDB Data Directory
 	- The TiDB System Database
-	- [The Proprietary System Variables and Syntax in TiDB](tidb-specific.md)
+	- [The Proprietary System Variables and Syntax in TiDB](tidb-server-administration/the-proprietary-system-variables-and-syntaxes.md)
 	- TiDB Server Logs
 + Security
 	- [The TiDB Access Privilege System](privilege.md)
